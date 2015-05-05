@@ -8,7 +8,7 @@ public class HelloWorldTest {
 	public void HelloTest(){
 		HelloWorld H1 = new HelloWorld();
 	
-		H1.Hello();s
+		H1.Hello();
 	}
 	
 }
